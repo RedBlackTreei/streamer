@@ -74,29 +74,29 @@ Here is server configuration:
 When loading a part of records, the performance decreased a lot. Here is the logs:
 
 
-> **Finished, took = 17178ms, count = 23740000**
-**Finished, took = 9061ms, count = 23750000**
-**Finished, took = 15808ms, count = 23760000**
-Finished, took = 950ms, count = 23770000
-Finished, took = 11ms, count = 23780000
-Finished, took = 12ms, count = 23790000
-**Finished, took = 16365ms, count = 23800000**
-Finished, took = 11ms, count = 23810000
-Finished, took = 12ms, count = 23820000
-Finished, took = 12ms, count = 23830000
-Finished, took = 11ms, count = 23840000
-Finished, took = 1343ms, count = 23850000
-**Finished, took = 13617ms, count = 23860000**
-Finished, took = 11ms, count = 23870000
-Finished, took = 14988ms, count = 23880000
-Finished, took = 11ms, count = 23890000
-Finished, took = 7368ms, count = 23900000
-Finished, took = 12ms, count = 23910000
-Finished, took = 12ms, count = 23920000
-Finished, took = 13ms, count = 23930000
-Finished, took = 13ms, count = 23940000
-Finished, took = 14ms, count = 23950000
-Finished, took = 10249ms, count = 23960000
+> **Finished, took = 17178ms, count = 23740000**  
+> **Finished, took = 9061ms, count = 23750000**  
+> **Finished, took = 15808ms, count = 23760000**  
+> Finished, took = 950ms, count = 23770000  
+> Finished, took = 11ms, count = 23780000  
+> Finished, took = 12ms, count = 23790000  
+> **Finished, took = 16365ms, count = 23800000**  
+> Finished, took = 11ms, count = 23810000  
+> Finished, took = 12ms, count = 23820000  
+> Finished, took = 12ms, count = 23830000  
+> Finished, took = 11ms, count = 23840000  
+> Finished, took = 1343ms, count = 23850000  
+> **Finished, took = 13617ms, count = 23860000**  
+> Finished, took = 11ms, count = 23870000  
+> Finished, took = 14988ms, count = 23880000  
+> Finished, took = 11ms, count = 23890000  
+> Finished, took = 7368ms, count = 23900000  
+> Finished, took = 12ms, count = 23910000  
+> Finished, took = 12ms, count = 23920000  
+> Finished, took = 13ms, count = 23930000  
+> Finished, took = 13ms, count = 23940000  
+> Finished, took = 14ms, count = 23950000  
+> Finished, took = 10249ms, count = 23960000  
 
 
 If the backup set to 0, it performed as normal.
